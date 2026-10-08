@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn>=1.6
+xgboost>=2.0
+joblib
+streamlit
+jupyter
+notebook
+shap

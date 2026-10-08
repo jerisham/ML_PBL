@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# Python cache
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml

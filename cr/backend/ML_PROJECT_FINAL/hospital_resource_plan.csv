@@ -1,0 +1,4 @@
+risk_category,n_patients,avg_time_in_hospital,avg_num_procedures,avg_num_medications,avg_num_lab_procedures,predicted_readmit_rate,expected_bed_days,avg_daily_beds_needed,intervention,follow_up_within_days,staff_role,concurrent_caseload,recommended_fte
+Low,2346,2.81,1.2,12.64,35.13,0.27,1782.1,59.4,Standard discharge instructions,30,None (standard discharge),2346.0,0
+Medium,10822,4.48,1.51,16.08,44.15,0.47,23787.3,792.91,Structured follow-up phone call + pharmacist medication review,7,Follow-up nurse,2525.1,43
+High,830,5.59,1.3,18.11,47.58,0.73,3378.8,112.63,Case-manager led transition-of-care + home health referral,2,Case manager,55.3,3
