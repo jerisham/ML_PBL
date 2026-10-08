@@ -480,7 +480,7 @@ Possible future improvements include:
 
 **V S Mayuri:** https://github.com/vsmayuri08
 
-**Jerisha M:**https://github.com/jerisham
+**Jerisha M:** https://github.com/jerisham
 
 Developed as an academic machine learning project.
 
